@@ -1,13 +1,6 @@
-### Hi there 👋
+### Hi there, hola a todos! 👋
+### Mi nombre es Paola, actualmente me encuentro como pasante para trébol-it, estoy aprendiendo full stack web developer y python!
+### En junio de este año conseguí mi certificación como cloud practitioner en AWS.
+### Pueden contactarme a través de Linkedin 
+### ✨Por otro lado, en mi vida pasada me desempeñé como pastelera, Amo la comida y los pasteles! ✨
 
-<!--
-**PaolaMagna/PaolaMagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Trébol-IT
-- 🌱 I’m currently learning web developer full-stack and python
-- 📫 How to reach me: .linkedin
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Amo la comida y me encanta hacer pasteles
--->
