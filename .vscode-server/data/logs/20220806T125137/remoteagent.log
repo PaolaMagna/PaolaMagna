@@ -1,0 +1,5 @@
+[2022-08-06 12:51:37.376] [remoteagent] [info] Extension host agent started.
+[2022-08-06 12:51:37.556] [remoteagent] [info] [127.0.0.1][d8e3b76f][ManagementConnection] New connection established.
+[2022-08-06 12:51:37.812] [remoteagent] [info] [127.0.0.1][14073bad][ExtensionHostConnection] New connection established.
+[2022-08-06 12:51:37.982] [remoteagent] [info] [127.0.0.1][14073bad][ExtensionHostConnection] <360> Launched Extension Host Process.
+[2022-08-06 12:51:38.002] [remoteagent] [info] [127.0.0.1][d8e3b76f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

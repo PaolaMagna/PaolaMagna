@@ -1,0 +1,14 @@
+[2022-08-06 12:52:17.522] [exthost] [info] Extension host with pid 115 started
+[2022-08-06 12:52:17.576] [exthost] [info] Lock '/home/paola/.vscode-server/data/User/workspaceStorage/7825768d5414920c5fcfce3ed587a1f4/vscode.lock': Lock acquired.
+[2022-08-06 12:52:17.703] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-06 12:52:17.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-06 12:52:17.745] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-06 12:52:17.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-08-06 12:52:17.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-06 12:52:18.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-06 12:52:18.747] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-06 12:52:18.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-06 12:52:18.814] [exthost] [info] Eager extensions activated
+[2022-08-06 12:59:10.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'
+[2022-08-06 13:00:22.688] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-06 13:00:22.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
